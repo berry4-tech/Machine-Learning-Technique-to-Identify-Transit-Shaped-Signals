@@ -10,9 +10,7 @@
 
 - [Overview](#overview)
 - [The Transit Method](#the-transit-method)
-- [Approach](#approach)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
 - [Contributors](#contributors)
 
 ---
