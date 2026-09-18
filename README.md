@@ -31,19 +31,6 @@ When a planet crosses in front of its star from our line of sight, the star's ob
 
 `Python` `Jupyter Notebook` `scikit-learn`
 
-<!-- Update with the actual libraries used (e.g. pandas, numpy, matplotlib, astropy, lightkurve) -->
-
-## Getting Started
-
-\`\`\`bash
-git clone https://github.com/berry4-tech/Machine-Learning-Technique-to-Identify-Transit-Shaped-Signals.git
-cd Machine-Learning-Technique-to-Identify-Transit-Shaped-Signals
-pip install -r requirements.txt
-jupyter notebook Exoplanets.ipynb
-\`\`\`
-
-<!-- Add a requirements.txt to the repo if one doesn't already exist, so this actually runs -->
-
 ## Contributors
 
 - **Sriya KV**, Dayananda Sagar University
