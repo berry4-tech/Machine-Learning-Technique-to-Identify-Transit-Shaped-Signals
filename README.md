@@ -27,17 +27,6 @@ This project builds a machine learning classifier that separates genuine transit
 
 When a planet crosses in front of its star from our line of sight, the star's observed brightness drops by a small, measurable amount and then recovers — a signal that repeats on the planet's orbital period. The depth of the dip relates to the planet's size relative to its star, and the shape and duration relate to its orbital geometry. Distinguishing a real transit from noise or a false-positive signal (like a background eclipsing binary) is exactly the kind of pattern-classification problem machine learning is suited to.
 
-## Approach
-
-<!-- Fill in from the notebook — this is the core of the README, worth being specific:
-- **Dataset**: which mission's data (Kepler KOI, K2, TESS?), how many light curves / samples, where it's sourced from
-- **Preprocessing**: detrending, phase-folding, normalization, handling missing data
-- **Features**: what was fed into the model (raw flux, extracted features like transit depth/duration, etc.)
-- **Model(s)**: which algorithm(s) were tried and which performed best
-- **Evaluation**: accuracy, precision/recall, F1, or AUC — and how the train/test split was done
-- **Key finding**: the one sentence you'd tell a recruiter about what you learned or achieved
--->
-
 ## Tech Stack
 
 `Python` `Jupyter Notebook` `scikit-learn`
